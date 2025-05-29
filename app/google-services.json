@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156867488851",
+    "project_id": "eduschedule-31808",
+    "storage_bucket": "eduschedule-31808.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156867488851:android:cacf2169c2feccd6776aa6",
+        "android_client_info": {
+          "package_name": "com.hiendao.eduschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156867488851-9649k70c596r8u84vriqo4h5advsbre1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hiendao.eduschedule",
+            "certificate_hash": "6334a756c5ec3c0337e7e41e18c3ff3bb096c9bc"
+          }
+        },
+        {
+          "client_id": "156867488851-nmqn0bsqee8bgco2sgvfrke75l6gj9dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hiendao.eduschedule",
+            "certificate_hash": "90d9e7b38cb166bf4c548c1587b31b45907dbe21"
+          }
+        },
+        {
+          "client_id": "156867488851-gp0p1t232j2l0aan2qiv3vc7ijuef8b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfn8jTZsRq151Lybla0hKTIh4lGYemBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156867488851-gp0p1t232j2l0aan2qiv3vc7ijuef8b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

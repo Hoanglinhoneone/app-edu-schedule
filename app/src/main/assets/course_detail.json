@@ -1,0 +1,117 @@
+{
+  "courses": null,
+  "course": {
+    "id": 1352,
+    "name": "Khóa học Java Core",
+    "teacher": "Hoàng Tuấn K",
+    "timeStart": "28/04/2025",
+    "timeEnd": "30/05/2025",
+    "numberOfLessons": "12",
+    "numberOfAssignments": "5",
+    "credits": "3",
+    "addressLearning": "Phòng 105, Tòa nhà E",
+    "repeatType": "everymonth",
+    "listDay": "28/04/2025",
+    "state": "notyet",
+    "note": "Khóa học về các thuật toán học máy với Python.",
+    "scheduleLearningList": [
+      {
+        "id": 802,
+        "name": "Buổi số 1",
+        "timeStart": "28/04/2025T13:00:00",
+        "timeEnd": "28/04/2025T15:00:00",
+        "teacher": "Hoàng Tuấn K",
+        "learningAddresses": "Phòng 105, Tòa nhà E",
+        "state": "Present",
+        "note": null,
+        "courseID": 1352
+      },
+      {
+        "id": 803,
+        "name": "Buổi số 2",
+        "timeStart": "28/05/2025T13:00:00",
+        "timeEnd": "28/05/2025T15:00:00",
+        "teacher": "Hoàng Tuấn K",
+        "learningAddresses": "Phòng 105, Tòa nhà E",
+        "state": "Present",
+        "note": null,
+        "courseID": 1352
+      },
+      {
+        "id": 804,
+        "name": "Buổi số 3",
+        "timeStart": "28/06/2025T13:00:00",
+        "timeEnd": "28/06/2025T15:00:00",
+        "teacher": "Hoàng Tuấn K",
+        "learningAddresses": "Phòng 105, Tòa nhà E",
+        "state": "Present",
+        "note": null,
+        "courseID": 1352
+      },
+      {
+        "id": 805,
+        "name": "Buổi số 4",
+        "timeStart": "28/07/2025T13:00:00",
+        "timeEnd": "28/07/2025T15:00:00",
+        "teacher": "Hoàng Tuấn K",
+        "learningAddresses": "Phòng 105, Tòa nhà E",
+        "state": "Present",
+        "note": null,
+        "courseID": 1352
+      },
+      {
+        "id": 806,
+        "name": "Buổi số 5",
+        "timeStart": "28/08/2025T13:00:00",
+        "timeEnd": "28/08/2025T15:00:00",
+        "teacher": "Hoàng Tuấn K",
+        "learningAddresses": "Phòng 105, Tòa nhà E",
+        "state": "Present",
+        "note": null,
+        "courseID": 1352
+      }
+    ],
+    "assignmentList": [
+      {
+        "id": 1,
+        "name": "Vẽ UI Figma Android App",
+        "endTime": "03/03/2025 14:00",
+        "state": "Overdue",
+        "note": "Vẽ giao diện người dùng cho ứng dụng Android trên Figma.",
+        "courseId": 1352
+      },
+      {
+        "id": 2,
+        "name": "Thực hành lập trình Java",
+        "endTime": "10/03/2025 15:00",
+        "state": "Absent",
+        "note": "Viết chương trình xử lý các thuật toán tìm kiếm và sắp xếp. hai ba bon nam sau bay tam chin",
+        "courseId": 1352
+      },
+      {
+        "id": 3,
+        "name": "Bài tập về học máy",
+        "endTime": "17/03/2025 12:00",
+        "state": "Absent",
+        "note": "Áp dụng các thuật toán học máy vào một bài toán thực tế.",
+        "courseId": 1352
+      },
+      {
+        "id": 4,
+        "name": "Đọc tài liệu về Java",
+        "endTime": "24/03/2025 10:00",
+        "state": "Absent",
+        "note": "Đọc tài liệu về các khái niệm và thư viện trong Java.",
+        "courseId": 1352
+      },
+      {
+        "id": 5,
+        "name": "Cuộc thi lập trình Java",
+        "endTime": "31/03/2025 17:00",
+        "state": "NotYet",
+        "note": "Tham gia cuộc thi lập trình để thực hành các kỹ năng Java.",
+        "courseId": 1352
+      }
+    ]
+  }
+}

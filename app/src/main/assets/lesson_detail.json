@@ -1,0 +1,13 @@
+{
+  "lesson":{
+    "id": 802,
+    "name": "Buổi số 1",
+    "timeStart": "28/04/2025T13:00:00",
+    "timeEnd": "28/04/2025T15:00:00",
+    "teacher": "Hoàng Tuấn K",
+    "learningAddresses": "Phòng 105, Tòa nhà E",
+    "state": "Present",
+    "note": "",
+    "courseID": 1352
+  }
+}
