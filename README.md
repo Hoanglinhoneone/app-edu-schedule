@@ -21,6 +21,9 @@ Dự án **Edu Schedule** cho phép người dùng quản lý các khóa học /
 - **UI**: Jetpack Compose, Material Design 3
 - **Custom View**: Canvas
 - **Dependency Injection**: DI Hilt
+## UseCase tổng quan hệ thống:
+![image](https://github.com/user-attachments/assets/cd43c012-79fd-40a2-bfc7-6f6a73c028fd)
+
 ## Tổng quan luồng hoạt động hệ thống:
 ![image](https://github.com/user-attachments/assets/1840554f-3065-406d-8e16-b80a31861e78)
 
